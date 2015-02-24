@@ -1,0 +1,13 @@
+requisitos:
+-nodejs 
+-npm
+
+Arrancar Servidor:
+en la terminal poner los siguientes comandos:
+
+//instala lo necesario
+npm install
+
+//levanta el servidor en la dirección http://localhost:8080/
+node server.js
+
