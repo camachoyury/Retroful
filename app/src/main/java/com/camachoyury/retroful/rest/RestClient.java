@@ -7,6 +7,8 @@ import retrofit.RestAdapter;
  */
 public class RestClient {
 
+
+    // poner la URL del servidor donde esta corriendo retroful-server
     private static final String BASE_URL = "http://192.168.2.100:8080/api";
 
     public RestAdapter getConnection(){
